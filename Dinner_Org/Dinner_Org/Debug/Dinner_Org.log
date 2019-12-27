@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\justi\source\repos\dinner_org\dinner_org\main.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Dinner_Org.vcxproj -> C:\Users\justi\source\repos\Dinner_Org\Debug\Dinner_Org.exe

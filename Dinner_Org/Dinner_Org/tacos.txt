@@ -1,0 +1,13 @@
+tacos
+1
+box of taco shells
+1
+beef
+1
+lettuce
+1
+tomato
+1
+onion
+1
+cheese
