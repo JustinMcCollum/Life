@@ -1,0 +1,5 @@
+﻿  Slot_Main.cpp
+c:\users\justi\source\repos\slotmachine\slotmachine\slot_main.cpp(135): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\justi\source\repos\slotmachine\slotmachine\slot_main.cpp(136): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\justi\source\repos\slotmachine\slotmachine\slot_main.cpp(141): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SlotMachine.vcxproj -> C:\Users\justi\source\repos\SlotMachine\Debug\SlotMachine.exe
